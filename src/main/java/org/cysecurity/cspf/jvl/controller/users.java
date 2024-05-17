@@ -5,7 +5,7 @@ public class users {
         if (!password.equals("Meow!")) {
         return(0);
         }
-
+        //new vuln
         return(1);
         }
 }
